@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.main-container{
+    width: 100%;
+    display: flex;
+}
+.h1{
+    font-size: 30px;
+   text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

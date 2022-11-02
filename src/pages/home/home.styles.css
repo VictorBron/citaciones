@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.content{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+}

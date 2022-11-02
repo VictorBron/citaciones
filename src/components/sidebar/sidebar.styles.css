@@ -1,0 +1,36 @@
+.sidebar{
+    width: 20%;
+    background-color: #1e293b;
+    min-height: 93vh;
+}
+.nav{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 180px;
+
+}
+.nav > ul{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: flex-start;
+    list-style: none;  
+    height: auto;
+   
+}
+.nav > ul > li{
+    margin-top: 15px;
+    
+}
+.item{
+    text-decoration: none;
+    /* display: flex;
+    align-items: flex-end; */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

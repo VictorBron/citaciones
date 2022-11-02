@@ -1,0 +1,23 @@
+
+.content_admin{
+    width: 80%;   
+}
+
+.box{
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.box > h1{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.linkk{
+    margin-top: 10px !important;
+}
